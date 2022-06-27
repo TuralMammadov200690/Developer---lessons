@@ -1,0 +1,168 @@
+.text {
+    font-size: 14px;
+    text-align: center;
+    width: 17%;
+    background-color: darkgray;
+    height: 150px;
+    margin: 45px 0px 74px 62px;
+    padding: 50px 0px;
+}
+
+.text h1 {
+    color: black
+}
+
+.text p {
+    color: aquamarine;
+}
+
+.text b {
+    color: blue;
+}
+
+.text-1 {
+    text-align: center;
+    width: 50%;
+    background-color: chartreuse;
+    height: 150px;
+    margin: 30px 80px 70px;
+    padding: 25px 0px 28px 1px;
+}
+
+
+.text-1 h1 {
+    color: white;
+}
+
+.text-1 p {
+    color: cadetblue;
+}
+
+.text-1 b {
+    color: brown;
+}
+
+.text-2 {
+    text-align: center;
+    width: 50%;
+    background-color: black;
+    height: 150PX;
+    display: flex;
+    align-items: center;
+}
+
+
+.text-2 h1 {
+    color: grey
+}
+
+.text-2 p {
+    color: red;
+    padding: 0px 48px 0px;
+}
+
+.text-2 b {
+    color: grey
+}
+
+.Forsaj {
+    width: 27%;
+
+    background-color: aqua;
+    border-style: dotted;
+    margin: 19px 0px 20px;
+}
+
+.Forsaj p {
+    color: chartreuse;
+}
+
+.Forsaj1 {
+    width: 30%;
+    background-color: azure;
+    border-style: dashed;
+    height: 40PX;
+    padding: 13px 33px 3px;
+
+}
+
+.Forsaj2 {
+    width: 33%;
+    background-color: blue;
+    border-style: solid;
+    padding: 20px 66px 34px;
+}
+
+.Forsaj3 {
+    width: 36%;
+    background-color: blueviolet;
+    border-style: double;
+    padding: 17px 100px 20px
+}
+
+.Forsaj4 {
+    width: 39%;
+    background-color: chartreuse;
+    border-style: groove;
+    margin: 17px 4px 17px;
+    padding: 12px 133px 18px;
+}
+
+.Forsaj5 {
+    width: 42%;
+    background-color: red;
+    border-style: initial;
+    padding: 19px 176px 25px;
+    margin: 23px 3px 16px;
+}
+
+.Forsaj6 {
+    width: 45%;
+    padding: 14px 213px 15px;
+    background-color: cyan;
+    border-style: dotted dashed solid double;
+}
+
+.Forsaj7 {
+    width: 48%;
+    padding: 19px 249px 20px;
+    background-color: darkgoldenrod;
+    border-style: ridge inset;
+}
+
+.Forsaj8 {
+    width: 51%;
+    background-color: gold;
+    padding: 14px 283px 19px;
+    border-style: outset;
+}
+
+.Forsaj9 {
+    width: 54%;
+    background-color: yellow;
+    margin: 18px 3px 25px;
+    padding: 17px 322px;
+    border-style: none;
+}
+
+.city {
+    background-color: aqua;
+    border: 3px solid black;
+    margin: 20px;
+    padding: 30px;
+}
+
+.city-2 {
+    background-color: chartreuse;
+    border: 5px solid red;
+    margin: 30px;
+    padding: 35px;
+}
+
+.city-3 {
+    background-color: gold;
+    border: 4px solid blue;
+    margin: 20px;
+    padding: 25px;
+
+}

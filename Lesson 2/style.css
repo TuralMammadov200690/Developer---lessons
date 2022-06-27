@@ -1,0 +1,56 @@
+.Alien {
+    border-style: groove;
+    width: 100%;
+    border-style: groove;
+    padding: auto;
+    background-color: chartreuse;
+
+
+}
+
+.Alien h1 {
+    margin: 0px 147px 3px;
+}
+
+.Alien h2 {
+    margin: 34px 144px;
+}
+
+.Alien h5 {
+    padding: 0px 0px 26px;
+    margin: 0px 93px 43px;
+}
+
+.Evolet h2 {
+    margin: 48px 97px 20px;
+    padding: 0px 0px 0px;
+}
+
+.Evolet h5 {
+    margin: -39px 330px 0px;
+    padding: 0px 0px 0px;
+}
+
+.Evolet p {
+    margin: 17px 96px 0px;
+}
+
+.Hera {
+    width: 20%;
+    height: 210px;
+    background-color: darkgrey;
+    border-radius: 0px 0px 0px;
+    display: inline-flex;
+    margin: 0px 20px;
+}
+
+.Box {
+    margin: 11PX -103PX 0PX;
+    width: 1200px;
+    display: flex;
+    justify-content: center;
+}
+
+.Box h2 {
+    margin: 90px 70px 0px;
+}

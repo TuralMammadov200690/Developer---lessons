@@ -1,0 +1,8 @@
+.box {
+ display: inline-flex;
+justify-content: space-evenly;
+width: 100%;
+}
+.Enigma{
+    text-align: center;
+}

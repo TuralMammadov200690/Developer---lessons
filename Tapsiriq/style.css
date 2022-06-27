@@ -1,0 +1,15 @@
+.picture {
+    width: 80%;
+    margin: auto; 
+}
+.picture img{
+    width: 100%;  
+}
+.picture-2{
+    width: 80%;
+    margin: auto;
+}
+.picture-2 h1 {
+    text-align: left;
+
+}

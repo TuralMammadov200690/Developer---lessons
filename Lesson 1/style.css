@@ -1,0 +1,28 @@
+.Lesson {
+    text-align: center;
+}
+
+.Page-1 {
+    display: flex;
+    margin: 0px 20px;
+    padding: 35px 0px;
+
+    width: 100%;
+    justify-content: center;
+}
+
+
+.Page-1 p {
+    width: 20%;
+    padding: 0px 3rem;
+}
+.Fall{
+    justify-content: center;
+    padding: 0px 400px 0px;
+}
+.Border{
+    border-style: double;
+    margin: 41px 478px -23px;
+    padding: 0px 36px 0px;
+}
+
